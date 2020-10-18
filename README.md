@@ -31,7 +31,7 @@ Actually, TensorFlow is used in many fields. The model can be used for research,
 - Implementation for complex architecture is difficult.
 
 
-#### Last things last, are there any alternatives rather than just using TensorFlow?
+#### Are there any alternatives rather than using TensorFlow?
 Definitely!
 
 For Python, there are several alternatives for deep learning frameworks that I've known:
@@ -40,3 +40,6 @@ For Python, there are several alternatives for deep learning frameworks that I'v
 - Caffe
 - Scikit-learn
 - MXNet
+
+#### Show me an example of TensorFlow project!
+Sure. You can go [here](https://github.com/vanadiumOxide/tensorflow-short-demo) to check about my repository about TensorFlow implementation in Python.
